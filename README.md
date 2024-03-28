@@ -6,7 +6,7 @@ On March 26 Roblox [Announced](https://devforum.roblox.com/t/deprecating-comment
 They stated the reason for doing so is that
 > It has become evident that the comments feature for Marketplace items is no longer serving its original purpose as it’s become a hub for spam, leading to low usage among both users and creators.
 
-The problem is that they are compleately removing them w/ no other way to view them after April 9th
+The problem is that they are completely removing them w/ no other way to view them after April 9th
 > they will remain in a read-only state until April 9, when we will remove comments entirely.
 
 ## Requirements
